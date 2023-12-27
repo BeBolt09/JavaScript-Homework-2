@@ -1,4 +1,4 @@
-    <h1>JavaScript Homework 2</h1>
+    ##JavaScript Homework 2
 
     <p>For the exercise 1, I looped through the key elements and printed them out.</p>
     <p>For the exercise 2, I Created a class Person and gave it two attributes that
