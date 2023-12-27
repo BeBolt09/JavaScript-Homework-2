@@ -9,7 +9,7 @@ For the exercise 3, I created a promise based function two check if a string's l
 
 ### Codewar problem that I hadn't completed in python before:
 
-![](01Not completed in Python.png)  
+<img src="01Not completed in Python.png">
   
 
 ### Codewar problem that I have completed in python before:
